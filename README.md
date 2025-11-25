@@ -5,18 +5,18 @@ Neural degenerative diseases related secreted proteins and receptors mini-databa
 .
 |-- Codes
 |   |-- MySQL part
-|   |   `-- example
-|   `-- R part
-|       `-- example
+|   |   -- example
+|   -- R part
+|       -- example
 |-- Data
 |   |-- AD
-|   |   `-- example
+|   |   -- example
 |   |-- ALS
-|   |   `-- example
+|   |   -- example
 |   |-- HD
-|   |   `-- example
-|   `-- PD
-|       `-- example
+|   |   -- example
+|   -- PD
+|       -- example
 |-- README.md
-`-- Referece
-    `-- example
+|-- Referece
+    -- example
