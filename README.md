@@ -2,7 +2,7 @@
 Neural degenerative diseases related secreted proteins and receptors mini-database
 
 2025-11-25
-.
+```
 |-- Codes
 |   |-- MySQL part
 |   |   -- example
@@ -20,3 +20,4 @@ Neural degenerative diseases related secreted proteins and receptors mini-databa
 |-- README.md
 |-- Referece
     -- example
+```
