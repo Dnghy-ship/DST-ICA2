@@ -1,0 +1,3 @@
+GEOaccess	"GSM7461691"	"GSM7461692"	"GSM7461693"	"GSM7461694"	"GSM7461695"	"GSM7461787"	"GSM7461788"	"GSM7461789"	"GSM7461790"	"GSM7461791"
+tissue	"peripheral blood"	"peripheral blood"	"peripheral blood"	"peripheral blood"	"peripheral blood"	"peripheral blood"	"peripheral blood"	"peripheral blood"	"peripheral blood"	"peripheral blood"
+status	ALS	ALS	ALS	ALS	ALS	CT	CT	CT	CT	CT

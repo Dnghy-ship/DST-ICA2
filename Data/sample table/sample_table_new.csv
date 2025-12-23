@@ -1,0 +1,253 @@
+﻿sample_id,resorce,diseases,status,tissue,omic_type
+1,GSM8133139,AD,AD,Post mortem brain,bulk_rna
+2,GSM8133143,AD,AD,Post mortem brain,bulk_rna
+3,GSM8133150,AD,AD,Post mortem brain,bulk_rna
+4,GSM8133221,AD,CT,Post mortem brain,bulk_rna
+5,GSM8133226,AD,CT,Post mortem brain,bulk_rna
+6,GSM8133231,AD,CT,Post mortem brain,bulk_rna
+7,GSM8343232,AD,CT,Blood,bulk_rna
+8,GSM8343233,AD,CT,Blood,bulk_rna
+9,GSM8343234,AD,CT,Blood,bulk_rna
+10,GSM8343256,AD,AD,Blood,bulk_rna
+11,GSM8343257,AD,AD,Blood,bulk_rna
+12,GSM8343258,AD,AD,Blood,bulk_rna
+13,GSM3172777,ALS,ALS,PBMC,bulk_rna
+14,GSM3172778,ALS,ALS,PBMC,bulk_rna
+15,GSM3172779,ALS,ALS,PBMC,bulk_rna
+16,GSM3172780,ALS,ALS,PBMC,bulk_rna
+17,GSM3172781,ALS,ALS,PBMC,bulk_rna
+18,GSM3172782,ALS,ALS,PBMC,bulk_rna
+19,GSM3172783,ALS,ALS,PBMC,bulk_rna
+20,GSM3172784,ALS,CT,PBMC,bulk_rna
+21,GSM3172785,ALS,CT,PBMC,bulk_rna
+22,GSM3172786,ALS,CT,PBMC,bulk_rna
+23,GSM3172787,ALS,CT,PBMC,bulk_rna
+24,GSM8742351,ALS,CT,Cervical spinal cord,bulk_rna
+25,GSM8742352,ALS,CT,Cervical spinal cord,bulk_rna
+26,GSM8742353,ALS,CT,Cervical spinal cord,bulk_rna
+27,GSM8742354,ALS,CT,Cervical spinal cord,bulk_rna
+28,GSM8742355,ALS,ALS,Cervical spinal cord,bulk_rna
+29,GSM8742356,ALS,ALS,Cervical spinal cord,bulk_rna
+30,GSM8742357,ALS,ALS,Cervical spinal cord,bulk_rna
+31,GSM8742358,ALS,ALS,Cervical spinal cord,bulk_rna
+32,GSM8742359,ALS,ALS,Cervical spinal cord,bulk_rna
+33,GSM8742360,ALS,ALS,Cervical spinal cord,bulk_rna
+34,GSM8742361,ALS,ALS,Cervical spinal cord,bulk_rna
+35,GSM8742362,ALS,ALS,Cervical spinal cord,bulk_rna
+36,GSM7461691,ALS,ALS,Blood,bulk_rna
+37,GSM7461692,ALS,ALS,Blood,bulk_rna
+38,GSM7461693,ALS,ALS,Blood,bulk_rna
+39,GSM7461694,ALS,ALS,Blood,bulk_rna
+40,GSM7461695,ALS,ALS,Blood,bulk_rna
+41,GSM7461787,ALS,CT,Blood,bulk_rna
+42,GSM7461788,ALS,CT,Blood,bulk_rna
+43,GSM7461789,ALS,CT,Blood,bulk_rna
+44,GSM7461790,ALS,CT,Blood,bulk_rna
+45,GSM7461791,ALS,CT,Blood,bulk_rna
+46,GSM1252704,HD,CT,Blood,bulk_rna
+47,GSM1252705,HD,CT,Blood,bulk_rna
+48,GSM1252706,HD,CT,Blood,bulk_rna
+49,GSM1252707,HD,CT,Blood,bulk_rna
+50,GSM1252708,HD,CT,Blood,bulk_rna
+51,GSM1252709,HD,CT,Blood,bulk_rna
+52,GSM1252710,HD,CT,Blood,bulk_rna
+53,GSM1252712,HD,CT,Blood,bulk_rna
+54,GSM1252713,HD,CT,Blood,bulk_rna
+55,GSM1252715,HD,CT,Blood,bulk_rna
+56,GSM1252717,HD,CT,Blood,bulk_rna
+57,GSM1252719,HD,CT,Blood,bulk_rna
+58,GSM1252720,HD,CT,Blood,bulk_rna
+59,GSM1252722,HD,CT,Blood,bulk_rna
+60,GSM1252723,HD,CT,Blood,bulk_rna
+61,GSM1252725,HD,CT,Blood,bulk_rna
+62,GSM1252726,HD,CT,Blood,bulk_rna
+63,GSM1252727,HD,CT,Blood,bulk_rna
+64,GSM1252729,HD,CT,Blood,bulk_rna
+65,GSM1252730,HD,CT,Blood,bulk_rna
+66,GSM1252731,HD,CT,Blood,bulk_rna
+67,GSM1252733,HD,CT,Blood,bulk_rna
+68,GSM1252735,HD,CT,Blood,bulk_rna
+69,GSM1252736,HD,CT,Blood,bulk_rna
+70,GSM1252737,HD,CT,Blood,bulk_rna
+71,GSM1252738,HD,CT,Blood,bulk_rna
+72,GSM1252740,HD,HD,Blood,bulk_rna
+73,GSM1252741,HD,HD,Blood,bulk_rna
+74,GSM1252742,HD,HD,Blood,bulk_rna
+75,GSM1252743,HD,HD,Blood,bulk_rna
+76,GSM1252744,HD,HD,Blood,bulk_rna
+77,GSM1252745,HD,HD,Blood,bulk_rna
+78,GSM1252746,HD,HD,Blood,bulk_rna
+79,GSM1252748,HD,HD,Blood,bulk_rna
+80,GSM1252750,HD,HD,Blood,bulk_rna
+81,GSM1252751,HD,HD,Blood,bulk_rna
+82,GSM1252752,HD,HD,Blood,bulk_rna
+83,GSM1252756,HD,HD,Blood,bulk_rna
+84,GSM1252757,HD,HD,Blood,bulk_rna
+85,GSM1252758,HD,HD,Blood,bulk_rna
+86,GSM1252759,HD,HD,Blood,bulk_rna
+87,GSM1252760,HD,HD,Blood,bulk_rna
+88,GSM1252761,HD,HD,Blood,bulk_rna
+89,GSM1252763,HD,HD,Blood,bulk_rna
+90,GSM1252764,HD,HD,Blood,bulk_rna
+91,GSM1252765,HD,HD,Blood,bulk_rna
+92,GSM1252766,HD,HD,Blood,bulk_rna
+93,GSM1252767,HD,HD,Blood,bulk_rna
+94,GSM1252768,HD,HD,Blood,bulk_rna
+95,GSM1252769,HD,HD,Blood,bulk_rna
+96,GSM1252772,HD,HD,Blood,bulk_rna
+97,GSM1252773,HD,HD,Blood,bulk_rna
+98,GSM1252774,HD,HD,Blood,bulk_rna
+99,GSM1252775,HD,HD,Blood,bulk_rna
+100,GSM1252776,HD,HD,Blood,bulk_rna
+101,GSM1252777,HD,HD,Blood,bulk_rna
+102,GSM1252778,HD,HD,Blood,bulk_rna
+103,GSM1252779,HD,HD,Blood,bulk_rna
+104,GSM1252780,HD,HD,Blood,bulk_rna
+105,GSM1252781,HD,HD,Blood,bulk_rna
+106,GSM1252782,HD,HD,Blood,bulk_rna
+107,GSM1252783,HD,HD,Blood,bulk_rna
+108,GSM1252785,HD,HD,Blood,bulk_rna
+109,GSM1252786,HD,HD,Blood,bulk_rna
+110,GSM1252787,HD,HD,Blood,bulk_rna
+111,GSM1252788,HD,HD,Blood,bulk_rna
+112,GSM1252789,HD,HD,Blood,bulk_rna
+113,GSM1252790,HD,HD,Blood,bulk_rna
+114,GSM1252792,HD,HD,Blood,bulk_rna
+115,GSM1252793,HD,HD,Blood,bulk_rna
+116,GSM1252794,HD,HD,Blood,bulk_rna
+117,GSM1252796,HD,HD,Blood,bulk_rna
+118,GSM1252797,HD,HD,Blood,bulk_rna
+119,GSM1252798,HD,HD,Blood,bulk_rna
+120,GSM1252800,HD,HD,Blood,bulk_rna
+121,GSM1252801,HD,HD,Blood,bulk_rna
+122,GSM1252802,HD,HD,Blood,bulk_rna
+123,GSM1252803,HD,HD,Blood,bulk_rna
+124,GSM1252804,HD,HD,Blood,bulk_rna
+125,GSM1252805,HD,HD,Blood,bulk_rna
+126,GSM1252806,HD,HD,Blood,bulk_rna
+127,GSM1252807,HD,HD,Blood,bulk_rna
+128,GSM1252808,HD,HD,Blood,bulk_rna
+129,GSM1252809,HD,HD,Blood,bulk_rna
+130,GSM1252810,HD,HD,Blood,bulk_rna
+131,GSM1252812,HD,HD,Blood,bulk_rna
+132,GSM1252813,HD,HD,Blood,bulk_rna
+133,GSM1252815,HD,HD,Blood,bulk_rna
+134,GSM1252816,HD,HD,Blood,bulk_rna
+135,GSM1252817,HD,HD,Blood,bulk_rna
+136,GSM1252818,HD,HD,Blood,bulk_rna
+137,GSM1252819,HD,HD,Blood,bulk_rna
+138,GSM1252821,HD,HD,Blood,bulk_rna
+139,GSM1252823,HD,HD,Blood,bulk_rna
+140,GSM1252824,HD,HD,Blood,bulk_rna
+141,GSM1252828,HD,CT,Blood,bulk_rna
+142,GSM1252829,HD,CT,Blood,bulk_rna
+143,GSM1252944,HD,CT,Blood,bulk_rna
+144,GSM1252711,HD,CT,Blood,bulk_rna
+145,GSM1252721,HD,CT,Blood,bulk_rna
+146,GSM1252724,HD,CT,Blood,bulk_rna
+147,GSM1252728,HD,CT,Blood,bulk_rna
+148,GSM1252732,HD,CT,Blood,bulk_rna
+149,GSM1252734,HD,CT,Blood,bulk_rna
+150,GSM1252739,HD,HD,Blood,bulk_rna
+151,GSM1252747,HD,HD,Blood,bulk_rna
+152,GSM1252749,HD,HD,Blood,bulk_rna
+153,GSM1252753,HD,HD,Blood,bulk_rna
+154,GSM1252754,HD,HD,Blood,bulk_rna
+155,GSM1252755,HD,HD,Blood,bulk_rna
+156,GSM1252762,HD,HD,Blood,bulk_rna
+157,GSM1252770,HD,HD,Blood,bulk_rna
+158,GSM1252771,HD,HD,Blood,bulk_rna
+159,GSM1252784,HD,HD,Blood,bulk_rna
+160,GSM1252791,HD,HD,Blood,bulk_rna
+161,GSM1252795,HD,HD,Blood,bulk_rna
+162,GSM1252799,HD,HD,Blood,bulk_rna
+163,GSM1252811,HD,HD,Blood,bulk_rna
+164,GSM1252814,HD,HD,Blood,bulk_rna
+165,GSM1252820,HD,HD,Blood,bulk_rna
+166,GSM1252822,HD,HD,Blood,bulk_rna
+167,GSM1252825,HD,HD,Blood,bulk_rna
+168,GSM1252826,HD,HD,Blood,bulk_rna
+169,GSM1580870,HD,CT,BA9 prefrontal cortex,bulk_rna
+170,GSM1580871,HD,CT,BA9 prefrontal cortex,bulk_rna
+171,GSM1580872,HD,CT,BA9 prefrontal cortex,bulk_rna
+172,GSM1580873,HD,CT,BA9 prefrontal cortex,bulk_rna
+173,GSM1580874,HD,CT,BA9 prefrontal cortex,bulk_rna
+174,GSM1580875,HD,CT,BA9 prefrontal cortex,bulk_rna
+175,GSM1580876,HD,CT,BA9 prefrontal cortex,bulk_rna
+176,GSM1580877,HD,CT,BA9 prefrontal cortex,bulk_rna
+177,GSM1580878,HD,CT,BA9 prefrontal cortex,bulk_rna
+178,GSM1580879,HD,CT,BA9 prefrontal cortex,bulk_rna
+179,GSM1580880,HD,CT,BA9 prefrontal cortex,bulk_rna
+180,GSM1580881,HD,CT,BA9 prefrontal cortex,bulk_rna
+181,GSM1580882,HD,CT,BA9 prefrontal cortex,bulk_rna
+182,GSM1580883,HD,CT,BA9 prefrontal cortex,bulk_rna
+183,GSM1580884,HD,CT,BA9 prefrontal cortex,bulk_rna
+184,GSM1580885,HD,CT,BA9 prefrontal cortex,bulk_rna
+185,GSM1580886,HD,CT,BA9 prefrontal cortex,bulk_rna
+186,GSM1580887,HD,CT,BA9 prefrontal cortex,bulk_rna
+187,GSM1580888,HD,CT,BA9 prefrontal cortex,bulk_rna
+188,GSM1580889,HD,CT,BA9 prefrontal cortex,bulk_rna
+189,GSM1580890,HD,CT,BA9 prefrontal cortex,bulk_rna
+190,GSM1580891,HD,CT,BA9 prefrontal cortex,bulk_rna
+191,GSM1580892,HD,CT,BA9 prefrontal cortex,bulk_rna
+192,GSM1580893,HD,CT,BA9 prefrontal cortex,bulk_rna
+193,GSM1580894,HD,CT,BA9 prefrontal cortex,bulk_rna
+194,GSM1580895,HD,CT,BA9 prefrontal cortex,bulk_rna
+195,GSM1580896,HD,CT,BA9 prefrontal cortex,bulk_rna
+196,GSM1580897,HD,CT,BA9 prefrontal cortex,bulk_rna
+197,GSM1580898,HD,CT,BA9 prefrontal cortex,bulk_rna
+198,GSM1580899,HD,CT,BA9 prefrontal cortex,bulk_rna
+199,GSM1580900,HD,CT,BA9 prefrontal cortex,bulk_rna
+200,GSM1580901,HD,CT,BA9 prefrontal cortex,bulk_rna
+201,GSM1580902,HD,CT,BA9 prefrontal cortex,bulk_rna
+202,GSM1580903,HD,CT,BA9 prefrontal cortex,bulk_rna
+203,GSM1580904,HD,CT,BA9 prefrontal cortex,bulk_rna
+204,GSM1580905,HD,CT,BA9 prefrontal cortex,bulk_rna
+205,GSM1580906,HD,CT,BA9 prefrontal cortex,bulk_rna
+206,GSM1580907,HD,CT,BA9 prefrontal cortex,bulk_rna
+207,GSM1580908,HD,CT,BA9 prefrontal cortex,bulk_rna
+208,GSM1580909,HD,CT,BA9 prefrontal cortex,bulk_rna
+209,GSM1580910,HD,CT,BA9 prefrontal cortex,bulk_rna
+210,GSM1580911,HD,CT,BA9 prefrontal cortex,bulk_rna
+211,GSM1580912,HD,CT,BA9 prefrontal cortex,bulk_rna
+212,GSM1580913,HD,CT,BA9 prefrontal cortex,bulk_rna
+213,GSM1580914,HD,CT,BA9 prefrontal cortex,bulk_rna
+214,GSM1580915,HD,CT,BA9 prefrontal cortex,bulk_rna
+215,GSM1580916,HD,CT,BA9 prefrontal cortex,bulk_rna
+216,GSM1580917,HD,CT,BA9 prefrontal cortex,bulk_rna
+217,GSM1580918,HD,HD,BA9 prefrontal cortex,bulk_rna
+218,GSM1580919,HD,HD,BA9 prefrontal cortex,bulk_rna
+219,GSM1580920,HD,HD,BA9 prefrontal cortex,bulk_rna
+220,GSM1580921,HD,HD,BA9 prefrontal cortex,bulk_rna
+221,GSM1580922,HD,HD,BA9 prefrontal cortex,bulk_rna
+222,GSM1580923,HD,HD,BA9 prefrontal cortex,bulk_rna
+223,GSM1580924,HD,HD,BA9 prefrontal cortex,bulk_rna
+224,GSM1580925,HD,HD,BA9 prefrontal cortex,bulk_rna
+225,GSM1580926,HD,HD,BA9 prefrontal cortex,bulk_rna
+226,GSM1580927,HD,HD,BA9 prefrontal cortex,bulk_rna
+227,GSM1580928,HD,HD,BA9 prefrontal cortex,bulk_rna
+228,GSM1580929,HD,HD,BA9 prefrontal cortex,bulk_rna
+229,GSM1580930,HD,HD,BA9 prefrontal cortex,bulk_rna
+230,GSM1580931,HD,HD,BA9 prefrontal cortex,bulk_rna
+231,GSM1580932,HD,HD,BA9 prefrontal cortex,bulk_rna
+232,GSM1580933,HD,HD,BA9 prefrontal cortex,bulk_rna
+233,GSM1580934,HD,HD,BA9 prefrontal cortex,bulk_rna
+234,GSM1580935,HD,HD,BA9 prefrontal cortex,bulk_rna
+235,GSM1580936,HD,HD,BA9 prefrontal cortex,bulk_rna
+236,GSM1580937,HD,HD,BA9 prefrontal cortex,bulk_rna
+237,GSM1679648,PD,CT,BA9 prefrontal cortex,bulk_rna
+238,GSM1679649,PD,CT,BA9 prefrontal cortex,bulk_rna
+239,GSM1679650,PD,CT,BA9 prefrontal cortex,bulk_rna
+240,GSM1679718,PD,PD,BA9 prefrontal cortex,bulk_rna
+241,GSM1679719,PD,PD,BA9 prefrontal cortex,bulk_rna
+242,GSM1679720,PD,PD,BA9 prefrontal cortex,bulk_rna
+243,GSM6341646,PD,PD,Blood,bulk_rna
+244,GSM6341647,PD,PD,Blood,bulk_rna
+245,GSM6341650,PD,CT,Blood,bulk_rna
+246,GSM6341651,PD,CT,Blood,bulk_rna
+247,PPMI,PD,CT,Blood,proteomics
+248,PPMI,PD,CT,Blood,proteomics
+249,PPMI,PD,CT,Blood,proteomics
+250,PPMI,PD,PD,Blood,proteomics
+251,PPMI,PD,PD,Blood,proteomics
+252,PPMI,PD,PD,Blood,proteomics
